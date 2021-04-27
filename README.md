@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="left" style="background:url(https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png;display:flex;position: relative;" >
+<div align="left" style="background:url(https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png);display:flex;position: relative;" >
 
 
 #### Platform&Tools
