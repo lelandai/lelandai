@@ -1,7 +1,8 @@
+![body_bg](https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png)
 ### Hi there 👋
 <div align="center" style="display:flex;position: relative;">
-<div align="left"><img src="https://weather-icon.journeyad.repl.co/@dongguan?v=1"></div>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+<div align="left"><img src="https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png"></div>
+  
 </div>
 
 #### Platform&Tools
