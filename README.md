@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/lelandai/SoCoin-project/blob/master/%E5%9B%BE%E7%89%87/body_bg.png)
+![](https://user-images.githubusercontent.com/6447479/116225819-dbcb7d80-a784-11eb-9384-ae5055ad0faa.jpg)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))-->
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
