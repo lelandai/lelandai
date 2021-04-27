@@ -2,8 +2,8 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))
-</div>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))-->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelandai&count_private=true&show_icons=true&theme=gotham)
 
