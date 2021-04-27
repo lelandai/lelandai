@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![](https://github.com/lelandai/SoCoin-project/blob/master/%E5%9B%BE%E7%89%87/body_bg.png)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))-->
 
