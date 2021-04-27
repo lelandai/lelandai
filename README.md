@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://user-images.githubusercontent.com/6447479/116225819-dbcb7d80-a784-11eb-9384-ae5055ad0faa.jpg)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))-->
 
