@@ -1,9 +1,6 @@
-![body_bg](https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png)
 ### Hi there 👋
-<div align="center" style="display:flex;position: relative;">
-<div align="left"><img src="https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png"></div>
-  
-</div>
+<div style=" background:url(https://user-images.githubusercontent.com/6447479/116218839-8770cf80-a77d-11eb-8298-3617dcfbb420.png" >
+
 
 #### Platform&Tools
 
@@ -37,6 +34,7 @@ Still Gathering Statistics...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelandai&count_private=true&show_icons=true&theme=gotham)
 
