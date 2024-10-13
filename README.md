@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandai&hide=javascript,html&layout=compact))-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandlib&hide=javascript,html&layout=compact))-->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelandai&count_private=true&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelandlib&count_private=true&show_icons=true&theme=gotham)
 
 
 <!--
-**lelandai/lelandai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lelandlib/lelandlib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
